@@ -1,0 +1,15 @@
+Settings	sector	\OLBB.SCT
+Settings	Settingsfile	\OLBB.txt
+Settings	SettingsfileVOICE	\OLBB.txt
+LastSession	connecttype	0
+LastSession	callsign	OLBB_CTR
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent1	\OLBBv2.asr
+LastSession	facility	0
+LastSession	rating	0
+LastSession	range	100
+Settings	AtisFolder	\UniATIS_OLBB\atisfiles.txt
+LastSession	atis_airport	OLBA
+LastSession	atis_letter	65
+Settings	alias	\alias.txt
