@@ -1,6 +1,10 @@
 Settings	sector	\OLBB.SCT
 Settings	Settingsfile	\OLBB.txt
 Settings	SettingsfileVOICE	\OLBB.txt
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 LastSession	connecttype	0
 LastSession	callsign	OLBB_CTR
 Settings	AselKey	5111808
