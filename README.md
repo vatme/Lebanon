@@ -29,6 +29,6 @@ Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs chang
 3. Open the extracted files and copy the DataFiles folder and OLBB.ese file. Go to your current sector file folder for OLBB and replace the DataFiles and .ese file with the ones you just copied. 
 
 ##Support
-For support on sector files, contact the VATME Support Team at: http://vatme.net/support/
+For support on sector files, contact the VATME Support Team at: http://support.vatme.net
 
 ***Sector files are property of VATSIM (www.vatsim.net) and VATME (www.vatme.net)***
