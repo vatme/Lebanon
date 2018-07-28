@@ -1,0 +1,115 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Lebanon-master\Data\Sector\Beirut\Beirut.sct
+SECTORTITLE:Beirut.sct
+Airports:OLBA:name
+Airports:OLKA:name
+Airports:OLRA:name
+ARTCC boundary:Amman ACC:
+ARTCC boundary:Beirut ACC:
+ARTCC boundary:Ben Gurion ACC:
+ARTCC boundary:Damascus ACC:
+ARTCC boundary:Nicosia ACC:
+ARTCC low boundary:Beirut CTA/ATZ:
+Fixes:ADRA:name
+Fixes:ADRA:symbol
+Fixes:ALSUS:name
+Fixes:ALSUS:symbol
+Fixes:BALMA:name
+Fixes:BALMA:symbol
+Fixes:BYBLO:name
+Fixes:BYBLO:symbol
+Fixes:CEDAR:name
+Fixes:CEDAR:symbol
+Fixes:DAKWE:name
+Fixes:DAKWE:symbol
+Fixes:DESHE:name
+Fixes:DESHE:symbol
+Fixes:DESPO:name
+Fixes:DESPO:symbol
+Fixes:ELIKA:name
+Fixes:ELIKA:symbol
+Fixes:KUKLA:name
+Fixes:KUKLA:symbol
+Fixes:LATEB:name
+Fixes:LATEB:symbol
+Fixes:LEBOR:name
+Fixes:LEBOR:symbol
+Fixes:LITAN:name
+Fixes:LITAN:symbol
+Fixes:LOTAX:name
+Fixes:LOTAX:symbol
+Fixes:MALLA:name
+Fixes:MALLA:symbol
+Fixes:NIKAS:name
+Fixes:NIKAS:symbol
+Fixes:RAMLA:name
+Fixes:RAMLA:symbol
+Fixes:TIROS:name
+Fixes:TIROS:symbol
+Fixes:VELOX:name
+Fixes:VELOX:symbol
+Fixes:ZALKA:name
+Fixes:ZALKA:symbol
+Geo:BeirutCoastline:
+Geo:GEO:
+Geo:OLBA_Taxiways:
+High airways:B15:line
+High airways:B17:line
+High airways:G2:line
+High airways:J14:line
+High airways:J222:line
+High airways:L620:line
+High airways:M425:line
+High airways:M978:line
+High airways:N310:line
+High airways:N438:line
+High airways:P300:line
+High airways:R18:line
+High airways:R19:line
+High airways:R219:line
+High airways:R655:line
+High airways:R78:line
+High airways:UB15:line
+High airways:UB17:line
+High airways:UG2:line
+High airways:UL620:line
+High airways:UM425:line
+High airways:UM978:line
+High airways:UN310:line
+High airways:UN438:line
+High airways:UP300:line
+High airways:UR18:line
+High airways:UR19:line
+High airways:UR219:line
+High airways:UR655:line
+High airways:UR78:line
+High airways:UW17:line
+High airways:W17:line
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+VORs:CAK:frequency
+VORs:CAK:name
+VORs:CAK:symbol
+VORs:KAD:frequency
+VORs:KAD:name
+VORs:KAD:symbol
+VORs:ROP:frequency
+VORs:ROP:name
+VORs:ROP:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:500
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Beirut ACC
+WINDOWAREA:32.644652:33.041501:34.757865:37.669256

@@ -1,0 +1,7 @@
+VOICE
+AG:Beirut Control:119.300:voice1.vatsim-germany.org:OLBB_CTR
+AG:Beirut Upper Control:119.400:voice1.vatsim-germany.org:OLBB_U_CTR
+AG:Beirut Approach:120.300:voice1.vatsim-germany.org:OLBA_APP
+AG:Hariri Tower:118.900:voice1.vatsim-germany.org:OLBA_TWR
+AG:Hariri Ground:121.900:voice1.vatsim-germany.org:OLBA_GND
+END

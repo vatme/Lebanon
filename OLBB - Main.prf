@@ -1,0 +1,36 @@
+RecentFiles	Recent1	Lebanon-master\Data\ASR\Beirut\Beirut ACC.asr
+Settings	sector	Lebanon-master\Data\Sector\Beirut\Beirut.sct
+Settings	SettingsfileSYMBOLOGY	Lebanon-master\Data\Settings\Beirut\Symbology.txt
+Settings	SettingsfileVOICE	Lebanon-master\Data\Settings\Beirut\Voice.txt
+Settings	SettingsfilePROFILE	Lebanon-master\Data\Settings\Beirut\Profiles.txt
+Settings	SettingsfileTAGS	Lebanon-master\Data\Settings\Beirut\Tags.txt
+Settings	SettingsfileSIL	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfileSEL	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfileDEP	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfileARR	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfileFP	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfilePLUGINS	Lebanon-master\Data\Settings\Beirut\Plugins.txt
+Settings	Settingsfile	Lebanon-master\Data\Settings\Beirut\General.txt
+Settings	SettingsfileSCREEN	Lebanon-master\Data\Settings\Beirut\Screen.txt
+Settings	SettingsfileCONFLICT	Lebanon-master\Data\Settings\Beirut\Lists.txt
+Settings	SettingsfileVCCS	Lebanon-master\Data\Settings\Beirut\VCCS.txt
+LastSession	connecttype	0
+LastSession	callsign	<initials>_OBS
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Lebanese vACC ATC Oberver
+LastSession	range	160
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	AtisFolder	Lebanon-master\Data\ATIS\Beirut\atisfiles.txt
+LastSession	atis_airport	OLBA
+RecentFiles	Recent2	Lebanon-master\Data\ASR\Beirut\Beirut ACC - Terrain Map.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	Lebanon-master\Data\ASR\Beirut\Beirut ACC.asr
+ASRFastKeys	2	Lebanon-master\Data\ASR\Beirut\Beirut ACC - Terrain Map.asr
+ASRFastKeys	3	Lebanon-master\Data\ASR\Beirut\Hariri Ground.asr
+Plugins	Plugin0	Lebanon-master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+RecentFiles	Recent3	Lebanon-master\Data\ASR\Beirut\Hariri Ground.asr

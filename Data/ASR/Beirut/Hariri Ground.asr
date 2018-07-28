@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Lebanon-master\Data\Sector\Beirut\Beirut.sct
+SECTORTITLE:Beirut.sct
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\A:freetext
+Free Text:Beirut Taxiways\B:freetext
+Free Text:Beirut Taxiways\C:freetext
+Free Text:Beirut Taxiways\D:freetext
+Free Text:Beirut Taxiways\E:freetext
+Free Text:Beirut Taxiways\F:freetext
+Free Text:Beirut Taxiways\G:freetext
+Free Text:Beirut Taxiways\H:freetext
+Free Text:Beirut Taxiways\J:freetext
+Free Text:Beirut Taxiways\J1:freetext
+Free Text:Beirut Taxiways\K:freetext
+Free Text:Beirut Taxiways\L:freetext
+Free Text:Beirut Taxiways\L:freetext
+Free Text:Beirut Taxiways\L:freetext
+Free Text:Beirut Taxiways\N:freetext
+Free Text:Beirut Taxiways\O:freetext
+Geo:BeirutCoastline:
+Geo:OLBA_Taxiways:
+Regions:OLBA_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:56.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:33.802984:35.442278:33.841052:35.525644
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:629
+PLUGIN:Virtual Controller Assistant:CDYPOS:23
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:OLBB_CTR:200:6
+ATIS2:Beirut Control | Monitor Hariri ATIS on 120.600 Mhz
+ATIS3:Need Charts or Procedures? vatame.org/vacc/OLBB
+ATIS4:Report Callsign, Position & Aircraft type on initial contact
+PROFILE:OLBA_APP:150:5
+ATIS2:Beirut Approach | Monitor Hariri ATIS on 120.600 Mhz
+ATIS3:Need Charts or Procedures? vatame.org/vacc/OLBB
+ATIS4:Report Callsign, Position & Aircraft type on initial contact
+PROFILE:OLBA_TWR:60:4
+ATIS2:Hariri Tower | Monitor Hariri ATIS on 120.600 Mhz
+ATIS3:Need Charts or Procedures? vatame.org/vacc/OLBB
+ATIS4:Report Callsign, Position & Aircraft type on initial contact
+PROFILE:OLBA_GND:40:3
+ATIS2:Hariri Ground | Monitor Hariri ATIS on 120.600 Mhz
+ATIS3:Need Charts or Procedures? vatame.org/vacc/OLBB
+ATIS4:Report Callsign, Aircraft type on initial contact. Squawk mode STANDBY on the ground!
+PROFILE:<initials>_OBS:160:0
+ATIS2:Lebanese vACC ATC Oberver
+ATIS3:
+ATIS4:
+END

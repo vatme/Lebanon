@@ -226,31 +226,3 @@ RECORD:windshear all runways:WSall.wav
 RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
-ITEM:This is:XXX
-ITEM:OLBA:XXX
-ITEM:information:XXX
-ITEM:A:
-ITEM:at time:XXX
-ITEM:0000:
-ITEM:expect ILS approach:XXX
-ITEM:arrival runway:XXX
-ITEM:21:
-ITEM:departure runway:XXX
-ITEM:17:
-ITEM:transition level:XXX
-ITEM:55:
-ITEM:wind calm:XXX
-ITEM:visibility:XXX
-ITEM:8:
-ITEM:kilometers:XXX
-ITEM:broken:XXX
-ITEM:{2600}:
-ITEM:feet:XXX
-ITEM:temperature:XXX
-ITEM:28:
-ITEM:dew point:XXX
-ITEM:22:
-ITEM:QNH:XXX
-ITEM:1012:
-ITEM:advise on initial contact you have information:XXX
-ITEM:A:

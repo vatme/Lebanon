@@ -1,0 +1,91 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Lebanon-master\Data\Sector\Beirut\Beirut.sct
+SECTORTITLE:Beirut.sct
+Airports:OLBA:name
+Airports:OLKA:name
+Airports:OLRA:name
+ARTCC boundary:Amman ACC:
+ARTCC boundary:Beirut ACC:
+ARTCC boundary:Ben Gurion ACC:
+ARTCC boundary:Damascus ACC:
+ARTCC boundary:Nicosia ACC:
+ARTCC low boundary:Beirut CTA/ATZ:
+Geo:BeirutCoastline:
+Geo:GEO:
+Geo:OLBA_Taxiways:
+High airways:B15:line
+High airways:B17:line
+High airways:G2:line
+High airways:J14:line
+High airways:J222:line
+High airways:L620:line
+High airways:M425:line
+High airways:M978:line
+High airways:N310:line
+High airways:N438:line
+High airways:P300:line
+High airways:R18:line
+High airways:R19:line
+High airways:R219:line
+High airways:R655:line
+High airways:R78:line
+High airways:UB15:line
+High airways:UB17:line
+High airways:UG2:line
+High airways:UL620:line
+High airways:UM425:line
+High airways:UM978:line
+High airways:UN310:line
+High airways:UN438:line
+High airways:UP300:line
+High airways:UR18:line
+High airways:UR19:line
+High airways:UR219:line
+High airways:UR655:line
+High airways:UR78:line
+High airways:UW17:line
+High airways:W17:line
+Regions:Level1_Terrain:polygon
+Regions:Level2_Terrain:polygon
+Regions:Level3_Terrain:polygon
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+VORs:CAK:frequency
+VORs:CAK:name
+VORs:CAK:symbol
+VORs:KAD:frequency
+VORs:KAD:name
+VORs:KAD:symbol
+VORs:ROP:frequency
+VORs:ROP:name
+VORs:ROP:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:500
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Beirut ACC
+WINDOWAREA:32.672848:33.077704:34.756182:37.640025
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:638
+PLUGIN:Virtual Controller Assistant:CDYPOS:25
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
